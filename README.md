@@ -18,4 +18,6 @@ Usage
 
 run the code, recording 5 secs. might be a bit slow due to the model response speed 
 
-For more details on implementation and usage, refer to the documentation within this repository.
+the future
+
+working on complex tasks and better recognition.
