@@ -10,6 +10,7 @@ Natural Language Processing: Employs GPT-4 to understand and process user comman
 Desktop Automation: Executes a wide range of desktop tasks using PyAutoGUI based on the processed commands.
 Getting Started
 in cmd run "pip install requirements.txt"
+make sure to set your resolution and api key in config.py
 
 Usage
 
