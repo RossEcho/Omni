@@ -8,7 +8,9 @@ Features
 Voice Recognition: Utilizes OpenAI's Whisper model for reliable voice command interpretation.
 Natural Language Processing: Employs GPT-4 to understand and process user commands in natural language.
 Desktop Automation: Executes a wide range of desktop tasks using PyAutoGUI based on the processed commands.
+
 Getting Started
+
 in cmd run "pip install requirements.txt"
 make sure to set your resolution and api key in config.py
 
